@@ -1,3 +1,1 @@
-<?php
-
-print "This is a test"
+<h1> testing</h1>
